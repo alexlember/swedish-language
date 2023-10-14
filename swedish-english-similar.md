@@ -10,7 +10,7 @@
 10. En ambulans: [ɛn ˈambʊlans], Ambulansen: [ˈambʊlansɛn], Ambulanser: [ˈambʊlansɛr], Ambulanserna: [ˈambʊlansɛrˌna], default: ambulans, English: Ambulance
 11. Analysera: [analyˈseːra], Analyserar: [analyˈseːrar], Analyserade: [analyˈseːradɛ], Analyserat: [analyˈseːrat], default: analysera, English: Analyze
 12. Ett apotek: [ɛt ˈɑːpʊˌteːk], Apoteket: [ˈɑːpʊˌteːkɛt], Apotek: [ˈɑːpʊˌteːk], Apoteken: [ˈɑːpʊˌteːkɛn], default: apotek, English: Apothecary/Pharmacy
-13. Ett Arkitekt: [ˈarːkɪtɛkt], Arkitekten: [ˈarːkɪtɛktn̩], Arkitekter: [ˈarːkɪtɛkˌtɛr], Arkitekterna: [ˈarːkɪtɛkˌtɛrˌna], default: arkitekt, English: Architect
+13. Ett Arkitekt: [ˈarːɕɪtɛkt], Arkitekten: [ˈarːɕɪtɛktn̩], Arkitekter: [ˈarːɕɪtɛkˌtɛr], Arkitekterna: [ˈarːɕɪtɛkˌtɛrˌna], default: arkitekt, English: Architect
 14. En artist: [ɛn ˈɑrːtɪst], Artisten: [ˈɑrːtɪstɛn], Artister: [ˈɑrːtɪstɛr], Artisterna: [ˈɑrːtɪstɛrˌna], default: artist, English: Artist
 15. En atmosfär: [ɛn atˈmɔsˌfɛːr], Atmosfären: [atˈmɔsˌfɛːrɛn], Atmosfärer: [atˈmɔsˌfɛːrɛr], Atmosfärerna: [atˈmɔsˌfɛːrɛrˌna], default: atmosfär, English: Atmosphere
 16. Biodiversity: [ˌbaɪoʊdaɪˈvɜrsəti], Biodiversity: [ˌbaɪoʊdaɪˈvɜrsəti], Biodiversity: [ˌbaɪoʊdaɪˈvɜrsəti], Biodiversity: [ˌbaɪoʊdaɪˈvɜrsəti], default: biodiversity, English: Biodiversity
@@ -28,12 +28,12 @@
 28. En Dialog: [dɪaˈlɔɡ], Dialogen: [dɪaˈlɔɡɛn], Dialoger: [dɪaˈlɔɡɛr], Dialogerna: [dɪaˈlɔɡɛrˌna], default: dialog, English: Dialogue
 29. Digital: [dɪɡɪˈtɑːl], Digitalt: [dɪɡɪˈtɑːlt], Digitala: [dɪɡɪˈtɑːla], Digitala: [dɪɡɪˈtɑːla], default: digital, English: Digital
 30. Ett dilemma: [ɛt dɪlɛmːa], Dilemmat: [dɪlɛˈmːat], Dilemman: [dɪlɛˈman], Dilemmorna: [dɪlɛˈmːɔrˌna], default: dilemma, English: Dilemma
-31. En Dimension: [dɪmɛnˈsjuːn], Dimensionen: [dɪmɛnˈsjuːnɛn], Dimensioner: [dɪmɛnˈsjuːnɛr], Dimensionerna: [dɪmɛnˈsjuːnɛrˌna], default: dimension, English: Dimension
+31. En Dimension: [dɪmɛnˈɧuːn], Dimensionen: [dɪmɛnˈɧuːnɛn], Dimensioner: [dɪmɛnˈɧuːnɛr], Dimensionerna: [dɪmɛnˈɧuːnɛrˌna], default: dimension, English: Dimension
 32. Ett Diplom: [dɪˈpluːm], Diplomet: [dɪˈpluːmɛt], Diplom: [dɪˈpluːm], Diplomen: [dɪˈpluːmɛn], default: diplom, English: Diploma
 33. En diskussion: [ɛn dɪskɵˈɧuːn], Diskussionen: [dɪskɵˈɧuːnɛn], Diskussioner: [dɪskɵˈɧuːnɛr], Diskussionerna: [dɪskɵˈɧuːnɛrˌna], default: diskussion, English: Discussion
 34. Ett drama: [ɛt ˈdrɑːma], Dramat: [ˈdrɑːmat], Draman: [ˈdrɑːman], Draman: [ˈdrɑːman], default: drama, English: Drama
 35. En ekonomi: [ɛn ɛkʊnɔˈmiː], Ekonomin: [ɛkʊnɔˈmiːn], Ekonomier: [ɛkʊnɔˈmiːɛr], Ekonomierna: [ɛkʊnɔˈmiːɛrˌna], default: ekonomi, English: Economy
-36. Ekonomisk: [ɛkʊnɔmɪsˈkoː], Ekonomiskt: [ɛkʊnɔmɪsˈkoːt], Ekonomiska: [ɛkʊnɔmɪsˈkoːska], Ekonomiska: [ɛkʊnɔmɪsˈkoːska], default: ekonomisk, English: Economic
+36. Ekonomisk: [ɛkʊnɔmɪsˈk], Ekonomiskt: [ɛkʊnɔmɪsˈkt], Ekonomiska: [ɛkʊnɔmɪsˈkska], Ekonomiska: [ɛkʊnɔmɪsˈkska], default: ekonomisk, English: Economic
 37. Energisk: [ɛŋˈɡɛrsk], Energiskt: [ɛŋˈɡɛrskt], Energiska: [ɛŋˈɡɛrska], Energiska: [ɛŋˈɡɛrska], default: energisk, English: Energetic
 38. En entreprenör: [ɛn ɛntrɛprɛˈnøːr], Entreprenören: [ɛntrɛprɛˈnøːrɛn], Entreprenörer: [ɛntrɛprɛˈnøːrɛr], Entreprenörerna: [ɛntrɛprɛˈnøːrɛrˌna], default: entreprenör, English: Entrepreneur
 39. En entusiast: [ɛn ɛntɵsɪˈɑːst], Entusiasten: [ɛntɵsɪˈɑːstɛn], Entusiaster: [ɛntɵsɪˈɑːstɛr], Entusiasterna: [ɛntɵsɪˈɑːstɛrˌna], default: entusiast, English: Enthusiast
@@ -49,7 +49,7 @@
 49. En Frustration: [frɵstraˈɧuːn], Frustrationen: [frɵstraˈɧuːnɛn], Frustrationer: [frɵstraˈɧuːnɛr], Frustrationerna: [frɵstraˈɧuːnɛrˌna], default: frustration, English: Frustration
 50. En Fysik: [fyːsɪk], Fysiken: [fyːsɪkɛn], Fysiker: [fyːsɪkɛr], Fysikerna: [fyːsɪkɛrˌna], default: fysik, English: Physics
 51. En Garanti: [ɡaranti], Garantin: [ɡarantɪn], Garantier: [ɡarantɪˈɛr], Garantierna: [ɡarantɪˈɛrˌna], default: garanti, English: Guarantee
-52. En generation: [ɛn ɡɛnɛraˈɧuːn], Generationen: [ɡɛnɛraˈɧuːnɛn], Generationer: [ɡɛnɛraˈɧuːnɛr], Generationerna: [ɡɛnɛraˈɧuːnɛrˌna], default: generation, English: Generation
+52. En generation: [ɛn ˈjɛnɛraˈɧuːn], Generationen: [ˈjɛnɛraˈɧuːnɛn], Generationer: [ˈjɛnɛraˈɧuːnɛr], Generationerna: [ˈjɛnɛraˈɧuːnɛrˌna], default: generation, English: Generation
 53. Global: [ˈɡlʊbɑːl], Globalt: [ˈɡlʊbɑːlt], Globala: [ˈɡlʊbɑːla], Globala: [ˈɡlʊbɑːla], default: global, English: Global
 54. En grupp: [ɛn ɡrɵp], Gruppen: [ˈɡrɵpɛn], Grupper: [ˈɡrɵpɛr], Grupperna: [ˈɡrɵpɛrˌna], default: grupp, English: Group
 55. Ett gymnasium: [ɛt ˈjʏːmnasɪɵm], Gymnasiet: [ˈjʏːmnasɪɛt], Gymnasier: [ˈjʏːmnasɪɛr], Gymnasierna: [ˈjʏːmnasɪɛrˌna], default: gymnasium, English: Gymnasium
@@ -69,13 +69,13 @@
 69. En infrastruktur: [ɛn ɪnˈfrastrʊktʊr], Infrastrukturen: [ɪnˈfrastrʊktʊˌrɛn], Infrastrukturer: [ɪnˈfrastrʊktʊˌrɛr], Infrastrukturerna: [ɪnˈfrastrʊktʊˌrɛrˌna], default: infrastruktur, English: Infrastructure
 70. Innovation: [ɪnʊvaˈɧuːn], Innovationen: [ɪnʊvaˈɧuːnɛn], Innovationer: [ɪnʊvaˈɧuːnɛr], Innovationerna: [ɪnʊvaˈɧuːnɛrˌna], default: innovation, English: Innovation
 71. Inspiration: [ɪnspɪraˈɧuːn], Inspirationen: [ɪnspɪraˈɧuːnɛn], Inspirationer: [ɪnspɪraˈɧuːnɛr], Inspirationerna: [ɪnspɪraˈɧuːnɛrˌna], default: inspiration, English: Inspiration
-72. Internationell: [ɪntɛrnaɧʊnaˈɛl], Internationellt: [ɪntɛrnaɧʊnaˈɛlt], Internationella: [ɪntɛrnaɧʊnaˈɛla], Internationella: [ɪntɛrnaɧʊnaˈɛla], default: internationell, English: International
+72. Internationell: [ɪntɛrnatɧʊnaˈɛl], Internationellt: [ɪntɛrnatɧʊnaˈɛlt], Internationella: [ɪntɛrnatɧʊnaˈɛla], Internationella: [ɪntɛrnatɧʊnaˈɛla], default: internationell, English: International
 73. Internet: [ˈɪnˌtɛrnɛt], Internet: [ˈɪnˌtɛrnɛt], Internet: [ˈɪnˌtɛrnɛt], Internet: [ˈɪnˌtɛrnɛt], default: internet, English: Internet
 74. En intervju: [ɛn ɪntɛrˈvjʊ], Intervjun: [ɪntɛrˈvjʊn], Intervjuer: [ɪntɛrˈvjʊɛr], Intervjuerna: [ɪntɛrˈvjʊɛrˌna], default: intervju, English: Interview
 75. Intuition: [ɪntɵɪˈɧʊn], Intuitionen: [ɪntɵɪˈɧʊnɛn], Intuitioner: [ɪntɵɪˈɧʊnɛr], Intuitionerna: [ɪntɵɪˈɧʊnɛrˌna], default: intuition, English: Intuition
 76. Isolera: [ɪsʊˈlɛːra], Isolerar: [ɪsʊˈlɛːrar], Isolerade: [ɪsʊˈlɛːradɛ], Isolerat: [ɪsʊˈlɛːrat], default: isolera, English: Isolate
-77. En journal: [ɛn ˈjʊɳɑːl], Journalen: [ˈjʊɳɑːlɛn], Journaler: [ˈjʊɳɑːlɛr], Journalerna: [ˈjʊɳɑːlɛrˌna], default: journal, English: Journal
-78. En journalist: [ɛn ˈjʊɳɑˌlɪsːt], Journalisten: [jʊɳɑˈlɪsːtɛn], Journalister: [jʊɳɑˈlɪsːtɛr], Journalisterna: [jʊɳɑˈlɪsːtɛrˌna], default: journalist, English: Journalist
+77. En journal: [ɛn ɧʊɳɑːl], Journalen: [ɧʊɳɑːlɛn], Journaler: [ɧʊɳɑːlɛr], Journalerna: [ɧʊɳɑːlɛrˌna], default: journal, English: Journal
+78. En journalist: [ɛn ɧʊɳɑˌlɪsːt], Journalisten: [ɧʊɳɑˈlɪsːtɛn], Journalister: [ɧʊɳɑˈlɪsːtɛr], Journalisterna: [ɧʊɳɑˈlɪsːtɛrˌna], default: journalist, English: Journalist
 79. Ett kafé: [ɛt ˈkɑːˌfeː], Kaféet: [ˈkɑːˌfeːɛt], Kaféer: [ˈkɑːˌfeːɛr], Kaféerna: [ˈkɑːˌfeːɛrˌna], default: kafé, English: Café
 80. En kamera: [ɛn ˈkɑːmɛra], Kameran: [ˈkɑːmɛˌran], Kameror: [ˈkɑːmɛˌrʊr], Kamerorna: [ˈkɑːmɛˌrʊrˌna], default: kamera, English: Camera
 81. En kandidat: [ɛn kandɪˈdat], Kandidaten: [kandɪˈdatɛn], Kandidater: [kandɪˈdatɛr], Kandidaterna: [kandɪˈdatɛrˌna], default: kandidat, English: Candidate
@@ -94,7 +94,7 @@
 94. En konstnär: [ɛn kʊnstˈnɛːr], Konstnären: [kʊnstˈnɛːrɛn], Konstnärer: [kʊnstˈnɛːrɛr], Konstnärerna: [kʊnstˈnɛːrɛrˌna], default: konstnär, English: Artist
 95. En konsult: [ɛn kɔnsɵlt], Konsulten: [kɔnsɵlˈtɛn], Konsulter: [kɔnsɵlˈtɛr], Konsulterna: [kɔnsɵlˈtɛrˌna], default: konsult, English: Consultant
 96. En kontinent: [ɛn kɔntɪˈnɛnːt], Kontinenten: [kɔntɪnɛnˈteːn], Kontinenter: [kɔntɪnɛnˈteːr], Kontinenterna: [kɔntɪnɛnˈteːrˌna], default: kontinent, English: Continent
-97. En konversation: [ɛn kɔnvɛrsaˈɧuːn], Konversationen: [kɔnvɛrsaˈɧuːnɛn], Konversationer: [kɔnvɛrsaˈɧuːnɛr], Konversationerna: [kɔnvɛrsaˈɧuːnɛrˌna], default: konversation, English: Conversation
+97. En konversation: [ɛn kɔnvɛʂaˈɧuːn], Konversationen: [kɔnvɛʂaˈɧuːnɛn], Konversationer: [kɔnvɛʂaˈɧuːnɛr], Konversationerna: [kɔnvɛʂaˈɧuːnɛrˌna], default: konversation, English: Conversation
 98. Kreativ: [krɛaˈtiːv], Kreativt: [krɛaˈtiːvt], Kreativa: [krɛaˈtiːva], Kreativa: [krɛaˈtiːva], default: kreativ, English: Creative
 99. En kritik: [ɛn krɪˈtiːk], Kritiken: [krɪˈtiːkɛn], Kritiker: [krɪˈtiːkɛr], Kritikerna: [krɪˈtiːkɛrˌna], default: kritik, English: Critique
 100. En kultur: [ɛn kɵlˈtʉːr], Kulturen: [kɵlˈtʉːrɛn], Kulturer: [kɵlˈtʉːrɛr], Kulturerna: [kɵlˈtʉːrɛrˌna], default: kultur, English: Culture
@@ -102,13 +102,13 @@
 102. En logik: [ɛn luˈɡiːk], Logiken: [luˈɡiːkɛn], Logiker: [luˈɡiːkɛr], Logikerna: [luˈɡiːkɛrˌna], default: logik, English: Logic
 103. Loyal: [lʊaˈɑːl], Lojalt: [lʊaˈɑːlt], Lojala: [lʊaˈɑːla], Lojala: [lʊaˈɑːla], default: lojal, English: Loyal
 104. En lunch: [ɛn lʉnʃ], Lunchen: [ˈlʉnʃɛn], Luncher: [ˈlʉnʃɛr], Luncherna: [ˈlʉnʃɛrˌna], default: lunch, English: Lunch
-105. Ett majestät: [ɛt maɧɛsˈtɛːt], Majestätet: [maɧɛsˈtɛːtɛt], Majestäter: [maɧɛsˈtɛːtɛr], Majestäter: [maɧɛsˈtɛːtɛr], default: majestät, English: Majesty
+105. Ett majestät: [ɛt majɛsˈtɛːt], Majestätet: [majɛsˈtɛːtɛt], Majestäter: [majɛsˈtɛːtɛr], Majestäter: [majɛsˈtɛːtɛr], default: majestät, English: Majesty
 106. Ett material: [ɛt ˈmaterɪˌɑːl], Materialet: [ˈmaterɪˌɑːlɛt], Material: [ˈmaterɪˌɑːl], Materialen: [ˈmaterɪˌɑːlɛn], default: material, English: Material
 107. Mental: [ˈmɛntɑːl], Mentalt: [ˈmɛntɑːlt], Mentala: [ˈmɛntɑːla], Mentala: [ˈmɛntɑːla], default: mental, English: Mental
-108. En Mentalitet: [mɛntaˈliːt], Mentaliteten: [mɛntaˈliːtɛn], Mentaliteter: [mɛntaˈliːtɛr], Mentaliteterna: [mɛntaˈliːtɛrˌna], default: mentalitet, English: Mentality
+108. En Mentalitet: [mɛntaˈliːte:t], Mentaliteten: [mɛntaˈliːte:tɛn], Mentaliteter: [mɛntaˈliːte:tɛr], Mentaliteterna: [mɛntaˈliːte:tɛrˌna], default: mentalitet, English: Mentality
 109. En meteorologi: [ɛn meːtʊrʊlɔˈɡiː], Meteorologin: [meːtʊrʊlɔˈɡiːn], Meteorologier: [meːtʊrʊlɔˈɡiːɛr], Meteorologierna: [meːtʊrʊlɔˈɡiːɛrˌna], default: meteorologi, English: Meteorology
 110. En mikrofon: [ɛn ˈmiːkroˌfuːn], Mikrofonen: [ˈmiːkroˌfuːnɛn], Mikrofoner: [ˈmiːkroˌfuːnɛr], Mikrofonerna: [ˈmiːkroˌfuːnɛrˌna], default: mikrofon, English: Microphone
-111. En motivation: [ɛn mʊtaɧʊˈɧuːn], Motivationen: [mʊtaɧʊˈɧuːnɛn], Motivationer: [mʊtaɧʊˈɧuːnɛr], Motivationerna: [mʊtaɧʊˈɧuːnɛrˌna], default: motivation, English: Motivation
+111. En motivation: [ɛn mʊtivaɧuːn], Motivationen: [mʊtivaɧuːnɛn], Motivationer: [mʊtivaɧuːnɛr], Motivationerna: [mʊtivaɧuːnɛrˌna], default: motivation, English: Motivation
 112. Ett museum: [ɛt ˈmʉːsɛɵm], Museet: [ˈmʉːsɛɛt], Museer: [ˈmʉːsɛr], Museerna: [ˈmʉːsɛrˌna], default: museum, English: Museum
 113. En musik: [ɛn ˈmʉːsɪk], Musiken: [ˈmʉːsɪkɛn], Musiker: [ˈmʉːsɪkɛr], Musikerna: [ˈmʉːsɪkɛrˌna], default: musik, English: Music
 114. En nervös: [ɛn ˈnærvøːs], Nervösen: [ˈnærvøːsɛn], Nervösa: [ˈnærvøːsa], Nervösa: [ˈnærvøːsa], default: nervös, English: Nervous
@@ -129,11 +129,11 @@
 129. Ett problem: [ɛt ˈpruːbleːm], Problemet: [pruːˈbleːmɛt], Problem: [ˈpruːbleːm], Problemen: [pruːˈbleːmɛn], default: problem, English: Problem
 130. En professor: [ɛn prɔˈfɛsʊr], Professorn: [prɔˈfɛsʊrɛn], Professorer: [prɔˈfɛsʊrɛr], Professorerna: [prɔˈfɛsʊrɛrˌna], default: professor, English: Professor
 131. En profil: [ɛn prʊˈfiːl], Profilen: [prʊˈfiːlɛn], Profiler: [prʊˈfiːlɛr], Profilerna: [prʊˈfiːlɛrˌna], default: profil, English: Profile
-132. Proportional: [prʊpʊrtsɪʊˈnɛl], Proportionellt: [prʊpʊrtsɪʊˈnɛlt], Proportionella: [prʊpʊrtsɪʊˈnɛla], Proportionella: [prʊpʊrtsɪʊˈnɛla], default: proportional, English: Proportional
+132. Proportional: [prʊpʊrʂɪʊˈnɛl], Proportionellt: [prʊpʊrʂɪʊˈnɛlt], Proportionella: [prʊpʊrʂɪʊˈnɛla], Proportionella: [prʊpʊrʂɪʊˈnɛla], default: proportional, English: Proportional
 133. En psykologi: [ɛn psykʊˈlɔɡiː], Psykologin: [psykʊˈlɔɡiːn], Psykologier: [psykʊˈlɔɡiːɛr], Psykologierna: [psykʊˈlɔɡiːɛrˌna], default: psykologi, English: Psychology
 134. En publik: [ɛn ˈpʉːblɪk], Publiken: [ˈpʉːblɪkɛn], Publiker: [ˈpʉːblɪkɛr], Publikerna: [ˈpʉːblɪkɛrˌna], default: publik, English: Public
 135. En radio: [ɛn ˈrɑːdɪʊ], Radion: [ˈrɑːdɪˌʊn], Radios: [ˈrɑːdɪˌʊs], Radiosarna: [ˈrɑːdɪˌʊsˌarːna], default: radio, English: Radio
-136. Rational: [raɧɔnaˈɧeːl], Rationalet: [raɧɔnaˈɧeːlɛt], Rationella: [raɧɔnaˈɧeːla], Rationella: [raɧɔnaˈɧeːla], default: rational, English: Rational
+136. Rational: [raʂɔnaˈɧeːl], Rationalet: [raʂɔnaˈɧeːlɛt], Rationella: [raʂɔnaˈɧeːla], Rationella: [raʂɔnaˈɧeːla], default: rational, English: Rational
 137. Realistisk: [rɛalɪsˈtiːsk], Realistiskt: [rɛalɪsˈtiːskt], Realistiska: [rɛalɪsˈtiːska], Realistiska: [rɛalɪsˈtiːska], default: realistisk, English: Realistic
 138. En region: [ɛn rɛɪgɪˈuːn], Regionen: [rɛɪgɪˈuːnɛn], Regioner: [rɛɪgɪˈuːnɛr], Regionerna: [rɛɪgɪˈuːnɛrˌna], default: region, English: Region
 139. En regional: [ɛn reɡɪʊˈnɑːl], Regionalen: [reɡɪʊˈnɑːlɛn], Regionaler: [reɡɪʊˈnɑːlɛr], Regionalerna: [reɡɪʊˈnɑːlɛrˌna], default: regional, English: Regional
@@ -167,9 +167,9 @@
 167. En turist: [ɛn tʉˈrɪst], Turisten: [tʉˈrɪstɛn], Turister: [tʉˈrɪstɛr], Turisterna: [tʉˈrɪstɛrˌna], default: turist, English: Tourist
 168. En Typ: [tyːp], Typen: [tyːpɛn], Typer: [tyːpɛr], Typerna: [tyːpɛrˌna], default: typ, English: Type
 169. En uniform: [ɛn ˈʉːnɪˌfɔrm], Uniformen: [ˈʉːnɪˌfɔrmɛn], Uniformer: [ˈʉːnɪˌfɔrmɛr], Uniformerna: [ˈʉːnɪˌfɔrmɛrˌna], default: uniform, English: Uniform
-170. Universell: [ʉnɪvɛrˈsɛl], Universellt: [ʉnɪvɛrˈsɛlt], Universella: [ʉnɪvɛrˈsɛla], Universella: [ʉnɪvɛrˈsɛla], default: universell, English: Universal
+170. Universell: [ʉnɪvɛrˈʂɛl], Universellt: [ʉnɪvɛrˈʂɛlt], Universella: [ʉnɪvɛrˈʂɛla], Universella: [ʉnɪvɛrˈʂɛla], default: universell, English: Universal
 171. Ett universitet: [ɛt ˈʉːnɪˌvɛʂɪtɛt], Universitetet: [ˈʉːnɪˌvɛʂɪtɛtɛt], Universitet: [ˈʉːnɪˌvɛʂɪtɛt], Universiteten: [ˈʉːnɪˌvɛʂɪtɛtɛn], default: universitet, English: University
-172. Ett universum: [ɛt ˈʉːnɪˌvɛrsɵm], Universumet: [ˈʉːnɪˌvɛrsɵmɛt], Universum: [ˈʉːnɪˌvɛrsɵm], Universumet: [ˈʉːnɪˌvɛrsɵmɛt], default: universum, English: Universe
+172. Ett universum: [ɛt ˈʉːnɪˌvɛʂɵm], Universumet: [ˈʉːnɪˌvɛʂɵmɛt], Universum: [ˈʉːnɪˌvɛʂɵm], Universumet: [ˈʉːnɪˌvɛʂɵmɛt], default: universum, English: Universe
 173. En vegetarian: [ɛn vɛgɛtɑˈriːan], Vegetarianen: [vɛgɛtɑˈriːˌanɛn], Vegetarianer: [vɛgɛtɑˈriːˌanɛr], Vegetarianerna: [vɛgɛtɑˈriːˌanɛrˌna], default: vegetarian, English: Vegetarian
 174. En vision: [viˈɧuːn], Visionen: [viˈɧuːnɛn], Visioner: [viˈɧuːnɛr], Visionerna: [viˈɧuːnɛrˌna], default: vision, English: Vision
 175. En vital: [ɛn ˈviːtɑːl], Vitalet: [ˈviːtɑːlɛt], Vitala: [ˈviːtɑːla], Vitala: [ˈviːtɑːla], default: vital, English: Vital
